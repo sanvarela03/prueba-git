@@ -6,9 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println( "Hola mundo" );
         
-        System.out.println("Esta es una modificación hecha por David ");
+        System.out.println("Esta es una modificación hecha por Santigo ");
         Integer a = 2;
-        Integer b = 3;
+        Integer b = 5000; 
         
         System.out.println("Suma " + (a+b));
 
